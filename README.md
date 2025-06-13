@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><strong>🌍 Full-Stack AI Trip Planner Web App</strong></h1>
 
 <p align="center">
@@ -130,3 +131,6 @@ Let me know if you’d like:
 - A contributor section for team projects
 
 Happy deploying! 🚀
+=======
+# Ai-Trip-Planner
+>>>>>>> ae12a797e044ae97486ea1f31957d0f34e30b8c1
